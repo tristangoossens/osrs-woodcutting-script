@@ -15,7 +15,7 @@ your own risk. The script is run in the [DreamBot client.](https://dreambot.org)
 
 I made this application for a Java school project. I was given the task to create either a CRUD application, a Minecraft mod or anything
 else that you could come up with.. I have played runescape myself and have always hated skilling for hours on end. So when this project 
-was announced by our teacher i immediately wanted to work on a a script to make the life easier. However botting and scripting is against 
+was announced by our teacher i immediately wanted to work on a a script to make the scaping life easier. However botting and scripting is against 
 the Code of conduct and i never used this on my main account.
 
 
