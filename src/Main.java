@@ -4,7 +4,9 @@ import org.dreambot.api.script.Category;
 import org.dreambot.api.script.ScriptManifest;
 import org.dreambot.api.wrappers.interactive.GameObject;
 
-@ScriptManifest(category = Category.WOODCUTTING, name = "Woodcutting script", author = "nl3choppa", description = "woodcutting bot by tristangoossens, informational purposes only", version = 1)
+// This script is written by Tristan Goossens for a Java school project. Use the script at your own risk as scripting in OSRS is bannable.
+
+@ScriptManifest(category = Category.WOODCUTTING, name = "Woodcutting script", author = "tristangoossens", description = "woodcutting script for educational purposes", version = 1.0)
 public class Main extends AbstractScript {
 
     private String state;
